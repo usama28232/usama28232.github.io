@@ -1,16 +1,97 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: peculiar-collections
+  role: Primary Developer
+  url: "https://github.com/usama28232/peculiar-collections"
+  description: A library to support collections in Go-lang for general and commonly used operations (built as hobby and research)
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: zapexample
+  role: Primary Developer
+  url: "https://github.com/usama28232/zapexample"
+  description: A sample Go-lang project to solve logging problem for distributed deployments using Elastic-Stack, uber-zap/logging
+
+- project: candid
+  role: Primary Developer
+  url: "https://github.com/usama28232/candid"
+  description: A core lightweight Go-lang framework to assist basic web api crud opertaions 
+
+- project: studious-couscous
+  role: Primary Developer
+  url: "https://github.com/usama28232/studious-couscous"
+  description: A lighweight dependency injection architecture in GO-lang (POC)
+
+- project: webservice
+  role: Primary Developer
+  url: "https://github.com/usama28232/webservice"
+  description: A minimal Go-lang web-service example with Http Request Logging (like tomcat access-log) & Request based logging levels, Test cases and Coverage Reports
+
+- project: postinit
+  role: Primary Developer
+  url: "https://github.com/usama28232/postinit"
+  description: A Go-lang sample project to demonstrate queue implementation using channels in GO-lang (POC)
+
+- project: statistics-wrapper
+  role: Primary Developer
+  url: "https://github.com/usama28232/statistics-wrapper"
+  description: A Java sample project to demonstrate user based control over statistical data
+
+- project: statistics-wrapper (micro-service architecture)
+  role: Primary Developer
+  url: "https://github.com/usama28232/statistics-wrapper/tree/microservice-arch"
+  description: A Java sample project to demonstrate user based control over statistical data in micro-service architecture
+
+- project: generic-operations
+  role: Primary Developer
+  url: "https://github.com/usama28232/generic-operations"
+  description: A Java sample project to demonstrate generic operation framework using the power of spring-boot (POC)
+
+- project: Cayenta
+  role: Primary Developer & Researcher
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A billing application for utilities which handles consumer requests, which is built on angular framework and a middle-ware router written on NestJS
+
+- project: Cayenta API
+  role: Primary Developer & Researcher
+  # url: "#"
+  description: A Complex API written in Spring boot, Spring Data JPA, Spring Security which is being rewritten from a legacy language UNIFACE, the new version is configured to use AspectJ + JaMon for performance monitoring
+
+- project: Foundation API
+  role: Primary Developer & Researcher
+  # url: "#"
+  description: GO-lang implentation of Cayenta API using Redis, Elastic-stack, uber-zap/logging, GORM, GraphQL, etc
+
+- project: Tracks
+  role: Primary Developer
+  # url: "#"
+  description: A custom reporting application for Businesses which helps tracking data by Entities using Google Maps library & Devextreme chats for representation. Framework & Tools
+
+- project: Business Intelligence
+  role: Primary Developer
+  # url: "#"
+  description: A tool to create custom dashboards against Cube using Devextreme charts for Data Representations. Built on top of Spring Boot, Spring Data JPA, Thymeleaf, angularJS, Devextreme
+
+- project: Studio Builder
+  role: Primary Developer
+  # url: "#"
+  description: A dynamic page designing studio that helps to incorporate business requirements without having the need to write code again. Built on top of Spring Boot, Spring Data JPA, Thymeleaf, angularJS
+
+- project: Ad-hoc Reporting
+  role: Primary Developer
+  # url: "#"
+  description: An ad-hoc reporting tool on Java (web) that is an interactive designer for creating and editing ad-hoc view (jasper reports) of data in real time. Built on top of Spring Boot, Spring Data JPA, Thymeleaf, angularJS
+
+- project: Single Sign-on
+  role: Primary Developer
+  # url: "#"
+  description: A spring security application implementing legacy OAuth2, acting as authorisation server for multiple web applications and mobile devices implementing customised audit security policies. Built on top of Spring Boot, Spring Data JPA, Spring Security, Thymeleaf, angularJS
+
+- project: Stock Trading
+  role: Lead Developer
+  # url: "#"
+  description: A swing application (java 8) which connects to stock market broker system to place strategic bids for user. Built on top of Swing, Spring Boot, Spring Data JPA, Thymeleaf, angularJS
+
+- project: Business Intelligence Legacy Project
+  role: Primary Developer
+  # url: "#"
+  description: A tool to create custom dashboards against Cube using Devextreme charts for Data Representations. Built on top of J2EE, JQuery, Devextreme

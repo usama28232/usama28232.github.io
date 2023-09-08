@@ -1,19 +1,21 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Contour Software
+  position: Senior Software Engineer
+  duration: 2022 &mdash; Present
+  summary: Remotely employed in (Harris Cayenta - Constellation Inc) through Contour Software (BPO) where I am part of the main Research & Development Team which involves a lot of experimentation, discovery and solution building architecture. Some core responsibilities are	<ul class="resume-item-list"><li>Working on billing applications built on Angular + NestJS Framework</li><li>Working on Back-end Rest APIs on Spring Framework (Spring Security, Spring Boot, Spring JPA)</li><li>Working on re-modelling of Legacy ERP modules on Go Lang</li><li>Responsible for research & development & integrating modern technologies like Elastic-Stack, Logging Architecture, Redis, Zookeeper, etc</li><li>Supporting existing legacy utility application in Java</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Centegy Technologies
+  position: Assistant Manager
+  duration:  2019 &mdash; 2022
+  summary: After the end of remote contract I was called by my previous employer. This tenure was purely based on Java8 - Spring Boot 2.1. <ul class="resume-item-list"><li>Worked on core business applications including BI, Sales & Distribution, Track Reporting, Studio Builder, Ad-hoc Reporting, Stock Trading (Desktop Application)</li><li>Responsible for managing monolithic application and team coordination</li><li>Responsible for managing single sign-on application</li><li>Responsible for managing Git Flow, Release Management with Jenkins and cross-platform deployments</li></ul>
 
+- company: IWP Health INC
+  position: Business Developer
+  duration:   2017  &mdash; 2019
+  summary: This was a remote position, I was mainly focused on front-end & 3rd-Party tool development (I got this job through Fiverr). <ul class="resume-item-list"><li>Front-end Development using plain java-script with bootstrap 3</li><li>klipfolio dashboard development & customisation</li><li>Chat-bot development</li></ul>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Centegy Technologies
+  position: Programmer
+  duration:   2016  &mdash; 2017
+  summary: This was my entry-point into on-site jobs  I did took off with .NET (framework 3.5 to 4.5) and later was transferred to Java Department because of my quick learning & problem solving skills. <ul class="resume-item-list"><li>Supporting & Maintaining an Integration Application for Data Transportation - .NET</li><li>Maintaining Queue Processor - An application which would process transported data & act upon it - .NET</li><li>BI - Web Application that deals with configurable data visualisation using DevExtreme, Datawarehouse - Java8 J2EE</li></ul>
