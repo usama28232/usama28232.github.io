@@ -20,8 +20,8 @@ resume_contact_email:           "usama28232@gmail.com"
 resume_contact_telephone:       "+92-341-313-8998"
 resume_contact_address:         "R-1244 Block 14, F.B Area - Dastagir Karachi Pakistan"
 
-resume_header_contact_info:     "Karachi, Springfield • +92-341-313-8998 • usama28232@gmail.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "Karachi • +92-341-313-8998"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>I am currently employed in Contour Software (A Subsidiary of Constellation Software Inc.) working remotely in Cayenta (Canada) on GO, Java Spring Boot, Hibernate, Spring Security with Angular and Thymeleaf for front-end framework and template engine respectively. I have 7+ years of working experience; I have also worked as a freelancer since 2015 on a number of technologies on Fiverr.</p>"
 
