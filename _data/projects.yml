@@ -19,7 +19,7 @@
 - project: studious-couscous
   role: Primary Developer
   url: "https://github.com/usama28232/studious-couscous"
-  description: A lighweight dependency injection architecture in GO-lang (POC)
+  description: A lightweight dependency injection architecture in GO-lang (POC)
 
 - project: webservice
   role: Primary Developer
